@@ -1,0 +1,9 @@
+{
+  "Blueprint": "BP_",
+  "Material": "M_",
+  "MaterialInstanceConstant": "MI_",
+  "SkeletalMesh": "SK_",
+  "StaticMesh": "SM_",
+  "Texture2D": "T_",
+  "World": "LV_"
+}

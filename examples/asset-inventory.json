@@ -1,0 +1,36 @@
+{
+  "root": "/Game",
+  "workspace": "nightglass",
+  "assets": [
+    {
+      "path": "/Game/Props/SM_Desk.SM_Desk",
+      "name": "SM_Desk",
+      "class": "StaticMesh"
+    },
+    {
+      "path": "/Game/Props/DeskLamp.DeskLamp",
+      "name": "DeskLamp",
+      "class": "StaticMesh"
+    },
+    {
+      "path": "/Game/Materials/M_Desk.M_Desk",
+      "name": "M_Desk",
+      "class": "Material"
+    },
+    {
+      "path": "/Game/Textures/desk_basecolor.desk_basecolor",
+      "name": "desk_basecolor",
+      "class": "Texture2D"
+    },
+    {
+      "path": "/Game/Maps/LV_PaperLantern.LV_PaperLantern",
+      "name": "LV_PaperLantern",
+      "class": "World"
+    },
+    {
+      "path": "/Game/Audio/RoomTone.RoomTone",
+      "name": "RoomTone",
+      "class": "SoundWave"
+    }
+  ]
+}
