@@ -59,6 +59,6 @@ isn't covered by these tests.
 - [Naming rules](docs/naming.md)
 - [Nightglass inventory](docs/fixtures/nightglass.md)
 - [Paper Lantern scene](docs/fixtures/paper-lantern.md)
-- [Workbench notes](docs/workbench.md)
+- [Workbench notes](docs/workbench.md), loose ends and contact
 
 MIT licensed. Small scope: prefix checks, not an asset validator.
