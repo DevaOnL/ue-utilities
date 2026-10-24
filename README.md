@@ -54,4 +54,11 @@ python -m unittest discover -s tests -v
 The tests exercise the offline audit. The editor exporter requires Unreal and
 isn't covered by these tests.
 
+## Notebook
+
+- [Naming rules](docs/naming.md)
+- [Nightglass inventory](docs/fixtures/nightglass.md)
+- [Paper Lantern scene](docs/fixtures/paper-lantern.md)
+- [Workbench notes](docs/workbench.md)
+
 MIT licensed. Small scope: prefix checks, not an asset validator.
